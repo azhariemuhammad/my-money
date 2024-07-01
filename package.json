@@ -1,0 +1,17 @@
+{
+  "name": "mymoney",
+  "version": "1.0.0",
+  "description": "",
+  "main": "money.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "hello": "money.js"
+  },
+  "dependencies": {
+    "yargs": "13.2"
+  }
+}
